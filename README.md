@@ -1,7 +1,4 @@
-# EEG-Depression-Detection
 EEG-based depression detection using CNN-BiLSTM 
-
-# EEG Depression Detection (CNN-BiLSTM)
 
 ## Overview
 This project implements an EEG-based depression detection model using CNN-BiLSTM.
