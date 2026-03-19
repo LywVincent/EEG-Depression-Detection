@@ -22,7 +22,7 @@ python evaluate.py
 streamlit run app.py
 
 
-# 🧠 EEG-Depression-Detection
+#### 🧠 EEG-Depression-Detection
 
 A deep learning project for **EEG-based depression detection** using a hybrid **CNN + BiLSTM architecture**. This project demonstrates a full machine learning pipeline from preprocessing to deployment.
 
@@ -198,8 +198,3 @@ python evaluate.py
 
 Vincent Liu
 
----
-
-## ⭐ If you find this project useful
-
-Give it a star on GitHub ⭐
