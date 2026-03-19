@@ -171,7 +171,3 @@ python evaluate.py
 
 ---
 
-## 💡 Author
-
-Vincent Liu
-
